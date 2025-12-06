@@ -1,5 +1,4 @@
 # Lecture 6.2: Dev/Stage/Prod Overlays
-Parameter Changes Per Environment
 
 ## Introduction
 

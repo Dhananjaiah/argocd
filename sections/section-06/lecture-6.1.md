@@ -1,6 +1,4 @@
 # Lecture 6.1: Base and Overlays
-Dev/Stage/Prod Overlays
-Parameter Changes Per Environment
 
 ## Introduction
 

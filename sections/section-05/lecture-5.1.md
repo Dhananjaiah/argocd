@@ -1,6 +1,4 @@
 # Lecture 5.1: Manual vs Auto Sync
-Prune & Self-Heal
-Sync Options & Best Practices
 
 ## Introduction
 

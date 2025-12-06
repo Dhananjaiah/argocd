@@ -1,5 +1,4 @@
 # Lecture 5.2: Prune & Self-Heal
-Sync Options & Best Practices
 
 ## Introduction
 
