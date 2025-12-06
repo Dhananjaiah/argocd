@@ -1,0 +1,91 @@
+# IDE and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Kubernetes
+*.kubeconfig
+kubeconfig
+.kube/
+
+# Secrets - NEVER commit these!
+secrets/
+*.key
+*.crt
+*.pem
+credentials.yaml
+*.secret
+.env
+.env.local
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.log
+logs/
+
+# Build artifacts
+dist/
+build/
+target/
+*.tar.gz
+*.zip
+
+# Node.js
+node_modules/
+package-lock.json
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+*.egg-info/
+
+# Go
+vendor/
+*.exe
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+# Docker
+.dockerignore
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Helm
+charts/*.tgz
+
+# Argo CD
+argocd-initial-admin-secret.txt
+
+# Test files
+coverage/
+*.test
+*.out
+
+# Local Kind clusters (optional)
+kind-config.yaml
+
+# Backup files
+*.bak
+*.backup
